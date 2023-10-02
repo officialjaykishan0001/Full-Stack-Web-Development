@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(208, 239, 162);
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 3px solid rgb(168, 162, 162);
+    text-align: center;
+    background-color:antiquewhite;
+}
