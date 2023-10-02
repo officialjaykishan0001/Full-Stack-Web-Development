@@ -1,0 +1,11 @@
+td,th{
+    border: 2px solid black;
+    font-family: monospace;
+}
+body{
+    margin-left: 20px;
+    margin-right:20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:aquamarine;
+}
